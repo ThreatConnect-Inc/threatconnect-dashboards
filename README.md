@@ -14,3 +14,12 @@ Shared dashboard for ThreatConnect Platform
 | [APT34](APT34_Tracking.tdb) | APT34, Helix Kitten, EUROPIUM, Hazel Sandstorm, Siamesekitten, Lyceum, Twisted Kitten, Crambus, COBALT GYPSY, ITG13, TA452, GreenBug, IRN2, Evasive Serpens, Earth Simnavaz, Crambus, COBALT GYPSY, IRN2, Helix Kitten, Evasive Serpens, Hazel Sandstorm, EUROPIUM, ITG13, Crambus, TA452, APT34, Earth Simnavaz |
 | [APT39](APT39_Tracking.tdb) | ITG07, Chafer, Remix Kitten |
 | [APT42](APT42_Tracking.tdb) | SpearSpecter, CharmingCypress, Educated Manticore, TA453, ITG-018, Yellow Garuda, CALANQUE, Charming Kitten, Mint Sandstorm |
+
+
+# ![Russian Flag](https://flagcdn.com/24x18/ru.png) Russian APT Dashboards
+
+| Dashboard Name | Aliases/Keywords |
+| --- | --- |
+| [Russian Overview](Russian_APT_Groups_Tracking.tdb) | APT28, sofacy, Fancy Bear, APT29, Cozy Bear, CozyCar, Fin7, Carbanak, Carbon Spider, Energetic Bear, Dragonfly, Anger Bear, Turla, Turla Group, Snake, Venomous Bear, Sandworm, Hades, Voodoo Bear |
+| [APT28](APT28_Tracking.tdb) | IRON TWILIGHT, SNAKEMACKEREL, Swallowtail, Group 74, Sednit, Sofacy, Pawn Storm, Fancy Bear, STRONTIUM, Tsar Team, Threat Group-4127, TG-4127, Forest Blizzard, FROZENLAKE, GruesomeLarch |
+| [APT29](APT29_Tracking.tdb) | IRON RITUAL, IRON HEMLOCK, NobleBaron, Dark Halo, NOBELIUM, UNC2452, YTTRIUM, The Dukes, Cozy Bear, CozyDuke, SolarStorm, Blue Kitsune, UNC3524, Midnight Blizzard |
