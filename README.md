@@ -30,3 +30,6 @@ Shared dashboard for ThreatConnect Platform
 | --- | --- | --- |
 | [TeamPCP](TeamPCP_Tracking.tdb) | Cybercrime | TeamPCP, PersyPCP, DeadCatx3, ShellForce, PCPcat, checkmarx, litellm, pypi |
 | [0Apt](0Apt_tracking.tdb) | Ransomware | 0Apt |
+| [Scattered Spider](Scattered_Spider_Tracking.tdb) | Ransomware | Scattered Spider, storm-0875, roasted 0ktapus, octo tempest, unc3944 |
+| [VanHelsing Ransomware](VanHelsing_Ransomware_Tracking.tdb) | Ransomware | VanHelsing |
+
