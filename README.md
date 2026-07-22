@@ -40,4 +40,5 @@ Shared dashboard for ThreatConnect Platform
 | [0Apt](0Apt_tracking.tdb) | Ransomware | 0Apt |
 | [Scattered Spider](Scattered_Spider_Tracking.tdb) | Ransomware | Scattered Spider, storm-0875, roasted 0ktapus, octo tempest, unc3944 |
 | [VanHelsing Ransomware](VanHelsing_Ransomware_Tracking.tdb) | Ransomware | VanHelsing |
+| [ShinyHunters](ShinyHunters_Tracking.tdb) | Financial Cybercrime/Extortion | ShinyHunters,SLSH,Sh1nySp1d3r,Scattered LAPSUS$ Hunters,ShinySp1d3r,Sp1d3rhunters,Bling Libra,UNC6240,UNC6040,UNC6661,UNC6671,ShinyCorp |
 
